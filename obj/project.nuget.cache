@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZJ9iImRyf4L1X/qTdWfrNdD8WvZAiw87elyIs3n+sxN/xclcLbNHDWnvvzn791UBBLTHLOES40uHD11jLFpHQ==",
+  "success": true,
+  "projectFilePath": "/Users/changmoklee/Desktop/Greed/unit04-greed.csproj",
+  "expectedPackageFiles": [
+    "/Users/changmoklee/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/changmoklee/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
